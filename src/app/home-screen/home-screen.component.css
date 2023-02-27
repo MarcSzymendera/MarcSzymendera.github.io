@@ -1,0 +1,12 @@
+@media screen and (max-width: 780px) {
+  .flexBox{
+  }
+}
+@media screen and (min-width: 780px) {
+  .flexBox{
+    display: flex;
+  }
+}
+
+
+
